@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+    padding: 0;
+
+
+
+}
+
+
+ .imagem{
+   width: auto;
+   height: 480px;
+  
+} 
+
+.repositorio{
+display: flex;
+background-color: azure;
+
+
+}
+
+ul{
+    width: 100%;
+    text-align: center;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+    
+    
